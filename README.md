@@ -1,3 +1,7 @@
+![image](https://i.ytimg.com/vi/k-thx7Kwt0c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBnKLYHrKkmL4nuu_J1XenKeaifxA)# Data CLeaning in SQL
+
+
+
 # Dimeji.NasVille_Data_Cleaning
 # Data Cleaning Portfolio Project
 
