@@ -1,5 +1,5 @@
-![image](https://i.ytimg.com/vi/k-thx7Kwt0c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBnKLYHrKkmL4nuu_J1XenKeaifxA)
-![image](https://www.google.com/search?client=firefox-b-d&sca_esv=560409506&q=nashville+tennessee+housing&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjHsLb24vuAAxUIQ8AKHazCAaEQ0pQJegQIEBAB&biw=1357&bih=637&dpr=1#imgrc=7mCkc5YICVzURM)
+![image](https://github.com/DimejiSan/Dimeji.NasVille_Data_Cleaning/blob/main/nashville.webp)
+![image](https://github.com/DimejiSan/Dimeji.NasVille_Data_Cleaning/blob/main/nashvillle.webp)
 
 #Data CLeaning in SQL
 
